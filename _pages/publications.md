@@ -33,7 +33,6 @@ toc_sticky: true
 
 * Exploration de la représentation multidimensionnelle de paramètres acoustiques unidimensionnels de la parole extraits par des modèles profonds non supervisés 
 &nbsp; <a href="https://inria.hal.science/hal-04623108/"><i class="fa fa-link" title="Paper" style="color:lightskyblue"></i></a>
-
 <br/>
 <span style="color:white"><font size="4"><em>Maxime Jacquelin, Maëva Garnier, Laurent Girin, Rémy Vincent, Olivier Perrotin</em></font></span>
 <br/>
@@ -43,7 +42,7 @@ toc_sticky: true
 ## Workshop and conference abstracts
 
 * Exploring the multidimensional representation of individual speech acoustic parameters extracted by deep unsupervised models
-&nbsp; <a href="https://hal.science/hal-04274170/"><i class="fa fa-link"" title="Paper" style="color:lightskyblue"></i></a>
+&nbsp; <a href="https://hal.science/hal-04274170/"><i class="fa fa-link" title="Paper" style="color:lightskyblue"></i></a>
 &nbsp; <a href="../assets/files/posters/SSW_2023.pdf"><i class="fa fa-file-pdf" title="Poster" style="color:lightskyblue"></i></a>
 <br/>
 <span style="color:white"><font size="4"><em>Maxime Jacquelin, Maëva Garnier, Laurent Girin, Rémy Vincent, Olivier Perrotin</em></font></span>
