@@ -12,17 +12,18 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Maxime Jacquelin"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Maxime Jacquelin"
+description              : "Description"
+github			             : [metadata]
+url                      : "https://jacquelm.github.io/minimal-mistakes/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -30,6 +31,7 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
+date_format		           : "%Y-%m-%d"
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
@@ -105,7 +107,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
@@ -113,18 +115,87 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Maxime Jacquelin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "3rd year PHD student<br>in speech coding and<br>data science"
+  location         : "Grenoble, France"
+  email            : "maxime.jacquelin[at]grenoble-inp.fr"
+  github	         : "jacquelm"
+  academic_profiles:
+    academia:
+    acclaim:
+    acm:
+    acmdl:
+    ads:
+    africarxiv:
+    arxiv:
+    biorxiv:
+    ceur:
+    ciencia-vitae:
+    closed-access:
+    conversation:
+    coursera:
+    crossref:
+    cv:
+    datacite:
+    dataverse:
+    dblp:
+    depsy:
+    doi:
+    dryad:
+    elsevier:
+    figshare:
+    google-scholar: "https://scholar.google.fr/citations?user=19iYTL4AAAAJ&hl=fr&oi=ao"
+    hal           : "https://hal.science/search/index/?q=*&authIdPerson_i=1303381"
+    hypothesis:
+    ideas-repec:
+    ieee:
+    impactstory:
+    inaturalist:
+    inpn:
+    inspire:
+    isidore:
+    jstor:
+    lattes:
+    mathoverflow:
+    mendeley:
+    moodle:
+    nakala:
+    open-access:
+    open-data:
+    open-materials:
+    obp:
+    openedition:
+    orcid         : "https://orcid.org/0009-0004-4013-0077" 
+    osf:
+    overleaf:
+    philpapers:
+    piazza:
+    preregistered:
+    protocols:
+    psyarxiv:
+    publons:
+    pubmed:
+    pubpeer:
+    researcherid:
+    researchgate:
+    ror:
+    sci-hub:
+    scirate:
+    scopus:
+    semantic-scholar:
+    springer:
+    ssrn:
+    stackoverflow:
+    zenodo:
+    zotero:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+    - label : "Email"
+      icon  : "fas fa-fw fa-envelope-square"
+      url   : "maxime.jacquelin@grenoble-inp.fr"
+    - label : "Website"
+      icon  : "fas fa-fw fa-link"
+      url   : "https://jacquelm.github.io/minimal-mistakes/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
