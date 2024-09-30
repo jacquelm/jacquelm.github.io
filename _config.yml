@@ -119,7 +119,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "3rd year PHD student<br>in speech coding and<br>data science"
   location         : "Grenoble, France"
-  email            : "maxime.jacquelin[at]grenoble-inp.fr"
+  email            : # "maxime.jacquelin[at]grenoble-inp.fr"
   github	         : "jacquelm"
   academic_profiles:
     academia:
@@ -190,12 +190,14 @@ author:
     zenodo:
     zotero:
   links:
+    # See also how links are displayed in _includes/author-profile.html
+    # uncomment url to make link appear
     - label : "Email"
       icon  : "fas fa-fw fa-envelope-square"
       url   : "maxime.jacquelin@grenoble-inp.fr"
     - label : "Website"
       icon  : "fas fa-fw fa-link"
-      url   : "https://jacquelm.github.io/minimal-mistakes/"
+      url   : "https://jacquelm.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
