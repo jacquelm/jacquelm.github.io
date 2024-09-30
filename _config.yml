@@ -120,7 +120,7 @@ author:
   bio              : "3rd year PHD student<br>in speech coding and<br>data science"
   location         : "Grenoble, France"
   email            : # "maxime.jacquelin[at]grenoble-inp.fr"
-  github	         : "jacquelm"
+  github	         : # "jacquelm"
   academic_profiles:
     academia:
     acclaim:
@@ -178,7 +178,7 @@ author:
     pubmed:
     pubpeer:
     researcherid:
-    researchgate:
+    researchgate  : "https://www.researchgate.net/profile/Maxime-Jacquelin"
     ror:
     sci-hub:
     scirate:
@@ -194,7 +194,7 @@ author:
     # uncomment url to make link appear
     - label : "Email"
       icon  : "fas fa-fw fa-envelope-square"
-      url   : "maxime.jacquelin@grenoble-inp.fr"
+      url   : "mailto:maxime.jacquelin@grenoble-inp.fr"
     - label : "Website"
       icon  : "fas fa-fw fa-link"
       url   : "https://jacquelm.github.io"
